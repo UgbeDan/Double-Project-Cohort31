@@ -1,0 +1,31 @@
+.row h1{
+
+    text-align: center;
+    
+    
+    }
+    
+    .first{
+        background-color: lightgray;
+    }
+    .second2{
+        margin-right: 30px;
+    }
+    a{
+        margin-right: 15px;
+        color: grey;
+        text-decoration: none;
+    }
+    img{
+        background-color: lightgrey;
+    }
+    .second3 a{
+        margin-right: 400px;
+    }
+    .mag{
+        position: absolute;
+        right: 230px;
+        top: 25px;
+        color: grey;
+       
+    }
